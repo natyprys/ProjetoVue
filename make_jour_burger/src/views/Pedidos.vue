@@ -1,13 +1,13 @@
 <template>
-  <div class="pedidos">
-    <h1> PEDIDOS </h1>
+  <div>
+    <div class="main-container">
+      <h1>Gerenciar pedidos:</h1>
+    </div>
   </div>
 </template>
 
 <script>
-export default{
-  name: Pedidos,
-  components: {
-  }
+export default {
+  name: 'Pedidos',
 }
 </script>
